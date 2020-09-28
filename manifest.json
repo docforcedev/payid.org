@@ -14,9 +14,9 @@
     "apps": [
       {
         "name": "review-apps",
-        "headCommitId": "c58db02bcd04511f7f59f8bc54d1d6ef3d649b32",
-        "updatedAt": "2020-09-25T23:34:09.152Z",
-        "href": "review-apps/wallet/c58db0",
+        "headCommitId": "115beadeaa972fea177e1a7c2f583b678e669391",
+        "updatedAt": "2020-09-28T16:41:53.532Z",
+        "href": "review-apps/wallet/115bea",
         "pullRequestUrl": "https://github.com/docforcedev/payid.org/pull/2"
       }
     ]
