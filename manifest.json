@@ -36,9 +36,9 @@
     "apps": [
       {
         "name": "review-apps",
-        "headCommitId": "e6403af5eb9a0880124c4ab60a2b5f4203be3b0c",
-        "updatedAt": "2020-10-08T22:36:56.940Z",
-        "href": "review-apps/payid-homepage-updates/e6403a",
+        "headCommitId": "acef846bfb53d363bb20ed8ada95ee6ffe41a1bd",
+        "updatedAt": "2020-10-08T23:05:03.148Z",
+        "href": "review-apps/payid-homepage-updates/acef84",
         "pullRequestUrl": "https://github.com/docforcedev/payid.org/pull/4"
       }
     ]
